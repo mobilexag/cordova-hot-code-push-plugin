@@ -1,4 +1,8 @@
-# Change Log
+# Changelog
+
+## Next patch
+
+**Changed** repo URL to https://mxgit.mobilex.intra/prd-crossmip/cordova-hot-code-push-plugin.git [CROSSMIP-847](https://yt.mobilexag.de/issue/CROSSMIP-847).
 
 ## 1.5.3 (2016-05-27)
 
